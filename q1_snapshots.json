@@ -1,0 +1,3031 @@
+{
+    "snapshots": [
+        [
+            {
+                "player": 7382,
+                "contract": 7000000,
+                "paid": 3733333.33
+            },
+            {
+                "player": 9339,
+                "contract": 1000000,
+                "paid": 383333.33
+            },
+            {
+                "player": 6049,
+                "contract": 975000,
+                "paid": 520000.0
+            },
+            {
+                "player": 2733,
+                "contract": 9250000,
+                "paid": 4933333.33
+            },
+            {
+                "player": 4607,
+                "contract": 1750000,
+                "paid": 291666.67
+            },
+            {
+                "player": 8587,
+                "contract": 2000000,
+                "paid": 466666.67
+            },
+            {
+                "player": 8836,
+                "contract": 7000000,
+                "paid": 3733333.33
+            },
+            {
+                "player": 8587,
+                "contract": 3150000,
+                "paid": 945000.0
+            },
+            {
+                "player": 7407,
+                "contract": 950000,
+                "paid": 348333.33
+            }
+        ],
+        [
+            {
+                "player": 7382,
+                "contract": 7000000,
+                "paid": 5483333.33
+            },
+            {
+                "player": 8836,
+                "contract": 7000000,
+                "paid": 5483333.33
+            },
+            {
+                "player": 1506,
+                "contract": 3675000,
+                "paid": 918750.0
+            },
+            {
+                "player": 6049,
+                "contract": 975000,
+                "paid": 763750.0
+            },
+            {
+                "player": 9339,
+                "contract": 1000000,
+                "paid": 633333.33
+            },
+            {
+                "player": 8587,
+                "contract": 2000000,
+                "paid": 966666.67
+            },
+            {
+                "player": 4607,
+                "contract": 1750000,
+                "paid": 291666.67
+            },
+            {
+                "player": 8587,
+                "contract": 3150000,
+                "paid": 945000.0
+            },
+            {
+                "player": 7407,
+                "contract": 950000,
+                "paid": 348333.33
+            },
+            {
+                "player": 2285,
+                "contract": 950000,
+                "paid": 237500.0
+            },
+            {
+                "player": 2733,
+                "contract": 9250000,
+                "paid": 7245833.33
+            }
+        ],
+        [
+            {
+                "player": 8836,
+                "contract": 7000000,
+                "paid": 5833333.33
+            },
+            {
+                "player": 9339,
+                "contract": 1000000,
+                "paid": 683333.33
+            },
+            {
+                "player": 8587,
+                "contract": 2000000,
+                "paid": 1066666.67
+            },
+            {
+                "player": 7382,
+                "contract": 7000000,
+                "paid": 5833333.33
+            },
+            {
+                "player": 2733,
+                "contract": 9250000,
+                "paid": 7708333.33
+            },
+            {
+                "player": 7407,
+                "contract": 950000,
+                "paid": 348333.33
+            },
+            {
+                "player": 2285,
+                "contract": 950000,
+                "paid": 285000.0
+            },
+            {
+                "player": 4607,
+                "contract": 1750000,
+                "paid": 291666.67
+            },
+            {
+                "player": 8587,
+                "contract": 3150000,
+                "paid": 945000.0
+            },
+            {
+                "player": 6049,
+                "contract": 975000,
+                "paid": 812500.0
+            },
+            {
+                "player": 1506,
+                "contract": 3675000,
+                "paid": 1102500.0
+            }
+        ],
+        [
+            {
+                "player": 4607,
+                "contract": 1750000,
+                "paid": 145833.33
+            },
+            {
+                "player": 8836,
+                "contract": 7000000,
+                "paid": 583333.33
+            },
+            {
+                "player": 8587,
+                "contract": 3150000,
+                "paid": 262500.0
+            },
+            {
+                "player": 6049,
+                "contract": 975000,
+                "paid": 81250.0
+            },
+            {
+                "player": 9339,
+                "contract": 1000000,
+                "paid": 16666.67
+            },
+            {
+                "player": 7407,
+                "contract": 950000,
+                "paid": 79166.67
+            },
+            {
+                "player": 2733,
+                "contract": 9250000,
+                "paid": 770833.33
+            },
+            {
+                "player": 7382,
+                "contract": 7000000,
+                "paid": 583333.33
+            }
+        ],
+        [
+            {
+                "player": 4607,
+                "contract": 1750000,
+                "paid": 291666.67
+            },
+            {
+                "player": 2733,
+                "contract": 9250000,
+                "paid": 4316666.67
+            },
+            {
+                "player": 7382,
+                "contract": 7000000,
+                "paid": 3266666.67
+            },
+            {
+                "player": 7407,
+                "contract": 950000,
+                "paid": 348333.33
+            },
+            {
+                "player": 8587,
+                "contract": 2000000,
+                "paid": 333333.33
+            },
+            {
+                "player": 8836,
+                "contract": 7000000,
+                "paid": 3266666.67
+            },
+            {
+                "player": 9339,
+                "contract": 1000000,
+                "paid": 316666.67
+            },
+            {
+                "player": 8587,
+                "contract": 3150000,
+                "paid": 945000.0
+            },
+            {
+                "player": 6049,
+                "contract": 975000,
+                "paid": 455000.0
+            }
+        ],
+        [
+            {
+                "player": 7407,
+                "contract": 950000,
+                "paid": 395833.33
+            },
+            {
+                "player": 8836,
+                "contract": 7000000,
+                "paid": 6183333.33
+            },
+            {
+                "player": 7382,
+                "contract": 7000000,
+                "paid": 6183333.33
+            },
+            {
+                "player": 8587,
+                "contract": 3150000,
+                "paid": 945000.0
+            },
+            {
+                "player": 1506,
+                "contract": 3675000,
+                "paid": 1286250.0
+            },
+            {
+                "player": 2285,
+                "contract": 950000,
+                "paid": 332500.0
+            },
+            {
+                "player": 9339,
+                "contract": 1000000,
+                "paid": 733333.33
+            },
+            {
+                "player": 2733,
+                "contract": 9250000,
+                "paid": 8170833.33
+            },
+            {
+                "player": 8587,
+                "contract": 2000000,
+                "paid": 1166666.67
+            },
+            {
+                "player": 6049,
+                "contract": 975000,
+                "paid": 812500.0
+            },
+            {
+                "player": 4607,
+                "contract": 1750000,
+                "paid": 291666.67
+            }
+        ],
+        [
+            {
+                "player": 2733,
+                "contract": 9250000,
+                "paid": 4162500.0
+            },
+            {
+                "player": 9339,
+                "contract": 1000000,
+                "paid": 300000.0
+            },
+            {
+                "player": 7382,
+                "contract": 7000000,
+                "paid": 3150000.0
+            },
+            {
+                "player": 6049,
+                "contract": 975000,
+                "paid": 438750.0
+            },
+            {
+                "player": 8836,
+                "contract": 7000000,
+                "paid": 3150000.0
+            },
+            {
+                "player": 8587,
+                "contract": 2000000,
+                "paid": 300000.0
+            },
+            {
+                "player": 4607,
+                "contract": 1750000,
+                "paid": 291666.67
+            },
+            {
+                "player": 7407,
+                "contract": 950000,
+                "paid": 348333.33
+            },
+            {
+                "player": 8587,
+                "contract": 3150000,
+                "paid": 945000.0
+            }
+        ],
+        [
+            {
+                "player": 7382,
+                "contract": 7000000,
+                "paid": 3966666.67
+            },
+            {
+                "player": 8587,
+                "contract": 2000000,
+                "paid": 533333.33
+            },
+            {
+                "player": 4607,
+                "contract": 1750000,
+                "paid": 291666.67
+            },
+            {
+                "player": 2285,
+                "contract": 950000,
+                "paid": 31666.67
+            },
+            {
+                "player": 1506,
+                "contract": 3675000,
+                "paid": 122500.0
+            },
+            {
+                "player": 6049,
+                "contract": 975000,
+                "paid": 552500.0
+            },
+            {
+                "player": 9339,
+                "contract": 1000000,
+                "paid": 416666.67
+            },
+            {
+                "player": 2733,
+                "contract": 9250000,
+                "paid": 5241666.67
+            },
+            {
+                "player": 7407,
+                "contract": 950000,
+                "paid": 348333.33
+            },
+            {
+                "player": 8836,
+                "contract": 7000000,
+                "paid": 3966666.67
+            },
+            {
+                "player": 8587,
+                "contract": 3150000,
+                "paid": 945000.0
+            }
+        ],
+        [
+            {
+                "player": 8587,
+                "contract": 3150000,
+                "paid": 945000.0
+            },
+            {
+                "player": 6049,
+                "contract": 975000,
+                "paid": 812500.0
+            },
+            {
+                "player": 4607,
+                "contract": 1750000,
+                "paid": 291666.67
+            },
+            {
+                "player": 9339,
+                "contract": 1000000,
+                "paid": 750000.0
+            },
+            {
+                "player": 2733,
+                "contract": 9250000,
+                "paid": 8325000.0
+            },
+            {
+                "player": 7382,
+                "contract": 7000000,
+                "paid": 6300000.0
+            },
+            {
+                "player": 7407,
+                "contract": 950000,
+                "paid": 411666.67
+            },
+            {
+                "player": 1506,
+                "contract": 3675000,
+                "paid": 1347500.0
+            },
+            {
+                "player": 2285,
+                "contract": 950000,
+                "paid": 348333.33
+            },
+            {
+                "player": 8587,
+                "contract": 2000000,
+                "paid": 1200000.0
+            },
+            {
+                "player": 8836,
+                "contract": 7000000,
+                "paid": 6300000.0
+            }
+        ],
+        [
+            {
+                "player": 8587,
+                "contract": 3150000,
+                "paid": 472500.0
+            },
+            {
+                "player": 8836,
+                "contract": 7000000,
+                "paid": 1050000.0
+            },
+            {
+                "player": 4607,
+                "contract": 1750000,
+                "paid": 262500.0
+            },
+            {
+                "player": 2733,
+                "contract": 9250000,
+                "paid": 1387500.0
+            },
+            {
+                "player": 9339,
+                "contract": 1000000,
+                "paid": 83333.33
+            },
+            {
+                "player": 6049,
+                "contract": 975000,
+                "paid": 146250.0
+            },
+            {
+                "player": 7382,
+                "contract": 7000000,
+                "paid": 1050000.0
+            },
+            {
+                "player": 7407,
+                "contract": 950000,
+                "paid": 110833.33
+            }
+        ],
+        [
+            {
+                "player": 7382,
+                "contract": 7000000,
+                "paid": 1866666.67
+            },
+            {
+                "player": 4607,
+                "contract": 1750000,
+                "paid": 291666.67
+            },
+            {
+                "player": 8587,
+                "contract": 3150000,
+                "paid": 840000.0
+            },
+            {
+                "player": 6049,
+                "contract": 975000,
+                "paid": 260000.0
+            },
+            {
+                "player": 8836,
+                "contract": 7000000,
+                "paid": 1866666.67
+            },
+            {
+                "player": 2733,
+                "contract": 9250000,
+                "paid": 2466666.67
+            },
+            {
+                "player": 9339,
+                "contract": 1000000,
+                "paid": 200000.0
+            },
+            {
+                "player": 7407,
+                "contract": 950000,
+                "paid": 190000.0
+            }
+        ],
+        [
+            {
+                "player": 8836,
+                "contract": 7000000,
+                "paid": 5600000.0
+            },
+            {
+                "player": 1506,
+                "contract": 3675000,
+                "paid": 980000.0
+            },
+            {
+                "player": 7407,
+                "contract": 950000,
+                "paid": 348333.33
+            },
+            {
+                "player": 8587,
+                "contract": 2000000,
+                "paid": 1000000.0
+            },
+            {
+                "player": 8587,
+                "contract": 3150000,
+                "paid": 945000.0
+            },
+            {
+                "player": 2733,
+                "contract": 9250000,
+                "paid": 7400000.0
+            },
+            {
+                "player": 4607,
+                "contract": 1750000,
+                "paid": 291666.67
+            },
+            {
+                "player": 9339,
+                "contract": 1000000,
+                "paid": 650000.0
+            },
+            {
+                "player": 6049,
+                "contract": 975000,
+                "paid": 780000.0
+            },
+            {
+                "player": 7382,
+                "contract": 7000000,
+                "paid": 5600000.0
+            },
+            {
+                "player": 2285,
+                "contract": 950000,
+                "paid": 253333.33
+            }
+        ],
+        [
+            {
+                "player": 8836,
+                "contract": 7000000,
+                "paid": 2333333.33
+            },
+            {
+                "player": 4607,
+                "contract": 1750000,
+                "paid": 291666.67
+            },
+            {
+                "player": 9339,
+                "contract": 1000000,
+                "paid": 200000.0
+            },
+            {
+                "player": 2733,
+                "contract": 9250000,
+                "paid": 3083333.33
+            },
+            {
+                "player": 7382,
+                "contract": 7000000,
+                "paid": 2333333.33
+            },
+            {
+                "player": 8587,
+                "contract": 2000000,
+                "paid": 66666.67
+            },
+            {
+                "player": 8587,
+                "contract": 3150000,
+                "paid": 945000.0
+            },
+            {
+                "player": 6049,
+                "contract": 975000,
+                "paid": 325000.0
+            },
+            {
+                "player": 7407,
+                "contract": 950000,
+                "paid": 253333.33
+            }
+        ],
+        [
+            {
+                "player": 8587,
+                "contract": 3150000,
+                "paid": 0.0
+            },
+            {
+                "player": 4607,
+                "contract": 1750000,
+                "paid": 0.0
+            },
+            {
+                "player": 8836,
+                "contract": 7000000,
+                "paid": 0.0
+            },
+            {
+                "player": 2733,
+                "contract": 9250000,
+                "paid": 0.0
+            },
+            {
+                "player": 6049,
+                "contract": 975000,
+                "paid": 0.0
+            },
+            {
+                "player": 7382,
+                "contract": 7000000,
+                "paid": 0.0
+            },
+            {
+                "player": 7407,
+                "contract": 950000,
+                "paid": 0.0
+            }
+        ],
+        [
+            {
+                "player": 2733,
+                "contract": 9250000,
+                "paid": 3237500.0
+            },
+            {
+                "player": 8587,
+                "contract": 2000000,
+                "paid": 100000.0
+            },
+            {
+                "player": 4607,
+                "contract": 1750000,
+                "paid": 291666.67
+            },
+            {
+                "player": 8836,
+                "contract": 7000000,
+                "paid": 2450000.0
+            },
+            {
+                "player": 7407,
+                "contract": 950000,
+                "paid": 269166.67
+            },
+            {
+                "player": 9339,
+                "contract": 1000000,
+                "paid": 200000.0
+            },
+            {
+                "player": 8587,
+                "contract": 3150000,
+                "paid": 945000.0
+            },
+            {
+                "player": 7382,
+                "contract": 7000000,
+                "paid": 2450000.0
+            },
+            {
+                "player": 6049,
+                "contract": 975000,
+                "paid": 341250.0
+            }
+        ],
+        [
+            {
+                "player": 7382,
+                "contract": 7000000,
+                "paid": 1283333.33
+            },
+            {
+                "player": 8587,
+                "contract": 3150000,
+                "paid": 577500.0
+            },
+            {
+                "player": 9339,
+                "contract": 1000000,
+                "paid": 116666.67
+            },
+            {
+                "player": 4607,
+                "contract": 1750000,
+                "paid": 291666.67
+            },
+            {
+                "player": 6049,
+                "contract": 975000,
+                "paid": 178750.0
+            },
+            {
+                "player": 8836,
+                "contract": 7000000,
+                "paid": 1283333.33
+            },
+            {
+                "player": 2733,
+                "contract": 9250000,
+                "paid": 1695833.33
+            },
+            {
+                "player": 7407,
+                "contract": 950000,
+                "paid": 110833.33
+            }
+        ],
+        [
+            {
+                "player": 7382,
+                "contract": 7000000,
+                "paid": 233333.33
+            },
+            {
+                "player": 4607,
+                "contract": 1750000,
+                "paid": 58333.33
+            },
+            {
+                "player": 7407,
+                "contract": 950000,
+                "paid": 31666.67
+            },
+            {
+                "player": 8587,
+                "contract": 3150000,
+                "paid": 105000.0
+            },
+            {
+                "player": 8836,
+                "contract": 7000000,
+                "paid": 233333.33
+            },
+            {
+                "player": 2733,
+                "contract": 9250000,
+                "paid": 308333.33
+            },
+            {
+                "player": 6049,
+                "contract": 975000,
+                "paid": 32500.0
+            }
+        ],
+        [
+            {
+                "player": 2285,
+                "contract": 950000,
+                "paid": 126666.67
+            },
+            {
+                "player": 7407,
+                "contract": 950000,
+                "paid": 348333.33
+            },
+            {
+                "player": 7382,
+                "contract": 7000000,
+                "paid": 4666666.67
+            },
+            {
+                "player": 1506,
+                "contract": 3675000,
+                "paid": 490000.0
+            },
+            {
+                "player": 8836,
+                "contract": 7000000,
+                "paid": 4666666.67
+            },
+            {
+                "player": 8587,
+                "contract": 3150000,
+                "paid": 945000.0
+            },
+            {
+                "player": 9339,
+                "contract": 1000000,
+                "paid": 516666.67
+            },
+            {
+                "player": 8587,
+                "contract": 2000000,
+                "paid": 733333.33
+            },
+            {
+                "player": 4607,
+                "contract": 1750000,
+                "paid": 291666.67
+            },
+            {
+                "player": 2733,
+                "contract": 9250000,
+                "paid": 6166666.67
+            },
+            {
+                "player": 6049,
+                "contract": 975000,
+                "paid": 650000.0
+            }
+        ],
+        [
+            {
+                "player": 8587,
+                "contract": 2000000,
+                "paid": 1366666.67
+            },
+            {
+                "player": 8836,
+                "contract": 7000000,
+                "paid": 6883333.33
+            },
+            {
+                "player": 9339,
+                "contract": 1000000,
+                "paid": 833333.33
+            },
+            {
+                "player": 1506,
+                "contract": 3675000,
+                "paid": 1653750.0
+            },
+            {
+                "player": 7407,
+                "contract": 950000,
+                "paid": 490833.33
+            },
+            {
+                "player": 8587,
+                "contract": 3150000,
+                "paid": 945000.0
+            },
+            {
+                "player": 6049,
+                "contract": 975000,
+                "paid": 812500.0
+            },
+            {
+                "player": 2733,
+                "contract": 9250000,
+                "paid": 9095833.33
+            },
+            {
+                "player": 4607,
+                "contract": 1750000,
+                "paid": 291666.67
+            },
+            {
+                "player": 2285,
+                "contract": 950000,
+                "paid": 427500.0
+            },
+            {
+                "player": 7382,
+                "contract": 7000000,
+                "paid": 6883333.33
+            }
+        ],
+        [
+            {
+                "player": 4607,
+                "contract": 1750000,
+                "paid": 291666.67
+            },
+            {
+                "player": 9339,
+                "contract": 1000000,
+                "paid": 500000.0
+            },
+            {
+                "player": 8836,
+                "contract": 7000000,
+                "paid": 4550000.0
+            },
+            {
+                "player": 8587,
+                "contract": 3150000,
+                "paid": 945000.0
+            },
+            {
+                "player": 2285,
+                "contract": 950000,
+                "paid": 110833.33
+            },
+            {
+                "player": 6049,
+                "contract": 975000,
+                "paid": 633750.0
+            },
+            {
+                "player": 2733,
+                "contract": 9250000,
+                "paid": 6012500.0
+            },
+            {
+                "player": 8587,
+                "contract": 2000000,
+                "paid": 700000.0
+            },
+            {
+                "player": 7382,
+                "contract": 7000000,
+                "paid": 4550000.0
+            },
+            {
+                "player": 7407,
+                "contract": 950000,
+                "paid": 348333.33
+            },
+            {
+                "player": 1506,
+                "contract": 3675000,
+                "paid": 428750.0
+            }
+        ],
+        [
+            {
+                "player": 8587,
+                "contract": 2000000,
+                "paid": 1400000.0
+            },
+            {
+                "player": 4607,
+                "contract": 1750000,
+                "paid": 291666.67
+            },
+            {
+                "player": 6049,
+                "contract": 975000,
+                "paid": 812500.0
+            },
+            {
+                "player": 2733,
+                "contract": 9250000,
+                "paid": 9250000.0
+            },
+            {
+                "player": 2285,
+                "contract": 950000,
+                "paid": 443333.33
+            },
+            {
+                "player": 9339,
+                "contract": 1000000,
+                "paid": 850000.0
+            },
+            {
+                "player": 7407,
+                "contract": 950000,
+                "paid": 506666.67
+            },
+            {
+                "player": 8587,
+                "contract": 3150000,
+                "paid": 945000.0
+            },
+            {
+                "player": 8836,
+                "contract": 7000000,
+                "paid": 7000000.0
+            },
+            {
+                "player": 1506,
+                "contract": 3675000,
+                "paid": 1715000.0
+            },
+            {
+                "player": 7382,
+                "contract": 7000000,
+                "paid": 7000000.0
+            }
+        ],
+        [
+            {
+                "player": 7382,
+                "contract": 7000000,
+                "paid": 2916666.67
+            },
+            {
+                "player": 8836,
+                "contract": 7000000,
+                "paid": 2916666.67
+            },
+            {
+                "player": 7407,
+                "contract": 950000,
+                "paid": 332500.0
+            },
+            {
+                "player": 8587,
+                "contract": 2000000,
+                "paid": 233333.33
+            },
+            {
+                "player": 8587,
+                "contract": 3150000,
+                "paid": 945000.0
+            },
+            {
+                "player": 4607,
+                "contract": 1750000,
+                "paid": 291666.67
+            },
+            {
+                "player": 2733,
+                "contract": 9250000,
+                "paid": 3854166.67
+            },
+            {
+                "player": 6049,
+                "contract": 975000,
+                "paid": 406250.0
+            },
+            {
+                "player": 9339,
+                "contract": 1000000,
+                "paid": 266666.67
+            }
+        ],
+        [
+            {
+                "player": 8836,
+                "contract": 7000000,
+                "paid": 4200000.0
+            },
+            {
+                "player": 2285,
+                "contract": 950000,
+                "paid": 63333.33
+            },
+            {
+                "player": 4607,
+                "contract": 1750000,
+                "paid": 291666.67
+            },
+            {
+                "player": 9339,
+                "contract": 1000000,
+                "paid": 450000.0
+            },
+            {
+                "player": 7407,
+                "contract": 950000,
+                "paid": 348333.33
+            },
+            {
+                "player": 8587,
+                "contract": 3150000,
+                "paid": 945000.0
+            },
+            {
+                "player": 7382,
+                "contract": 7000000,
+                "paid": 4200000.0
+            },
+            {
+                "player": 1506,
+                "contract": 3675000,
+                "paid": 245000.0
+            },
+            {
+                "player": 8587,
+                "contract": 2000000,
+                "paid": 600000.0
+            },
+            {
+                "player": 2733,
+                "contract": 9250000,
+                "paid": 5550000.0
+            },
+            {
+                "player": 6049,
+                "contract": 975000,
+                "paid": 585000.0
+            }
+        ],
+        [
+            {
+                "player": 7407,
+                "contract": 950000,
+                "paid": 15833.33
+            },
+            {
+                "player": 8587,
+                "contract": 3150000,
+                "paid": 52500.0
+            },
+            {
+                "player": 7382,
+                "contract": 7000000,
+                "paid": 116666.67
+            },
+            {
+                "player": 4607,
+                "contract": 1750000,
+                "paid": 29166.67
+            },
+            {
+                "player": 2733,
+                "contract": 9250000,
+                "paid": 154166.67
+            },
+            {
+                "player": 8836,
+                "contract": 7000000,
+                "paid": 116666.67
+            },
+            {
+                "player": 6049,
+                "contract": 975000,
+                "paid": 16250.0
+            }
+        ],
+        [
+            {
+                "player": 7382,
+                "contract": 7000000,
+                "paid": 1400000.0
+            },
+            {
+                "player": 7407,
+                "contract": 950000,
+                "paid": 126666.67
+            },
+            {
+                "player": 4607,
+                "contract": 1750000,
+                "paid": 291666.67
+            },
+            {
+                "player": 2733,
+                "contract": 9250000,
+                "paid": 1850000.0
+            },
+            {
+                "player": 6049,
+                "contract": 975000,
+                "paid": 195000.0
+            },
+            {
+                "player": 9339,
+                "contract": 1000000,
+                "paid": 133333.33
+            },
+            {
+                "player": 8587,
+                "contract": 3150000,
+                "paid": 630000.0
+            },
+            {
+                "player": 8836,
+                "contract": 7000000,
+                "paid": 1400000.0
+            }
+        ],
+        [
+            {
+                "player": 1506,
+                "contract": 3675000,
+                "paid": 1531250.0
+            },
+            {
+                "player": 8836,
+                "contract": 7000000,
+                "paid": 6650000.0
+            },
+            {
+                "player": 9339,
+                "contract": 1000000,
+                "paid": 800000.0
+            },
+            {
+                "player": 7407,
+                "contract": 950000,
+                "paid": 459166.67
+            },
+            {
+                "player": 6049,
+                "contract": 975000,
+                "paid": 812500.0
+            },
+            {
+                "player": 4607,
+                "contract": 1750000,
+                "paid": 291666.67
+            },
+            {
+                "player": 2285,
+                "contract": 950000,
+                "paid": 395833.33
+            },
+            {
+                "player": 2733,
+                "contract": 9250000,
+                "paid": 8787500.0
+            },
+            {
+                "player": 8587,
+                "contract": 2000000,
+                "paid": 1300000.0
+            },
+            {
+                "player": 7382,
+                "contract": 7000000,
+                "paid": 6650000.0
+            },
+            {
+                "player": 8587,
+                "contract": 3150000,
+                "paid": 945000.0
+            }
+        ],
+        [
+            {
+                "player": 1506,
+                "contract": 3675000,
+                "paid": 183750.0
+            },
+            {
+                "player": 6049,
+                "contract": 975000,
+                "paid": 568750.0
+            },
+            {
+                "player": 8587,
+                "contract": 2000000,
+                "paid": 566666.67
+            },
+            {
+                "player": 2285,
+                "contract": 950000,
+                "paid": 47500.0
+            },
+            {
+                "player": 9339,
+                "contract": 1000000,
+                "paid": 433333.33
+            },
+            {
+                "player": 7382,
+                "contract": 7000000,
+                "paid": 4083333.33
+            },
+            {
+                "player": 8587,
+                "contract": 3150000,
+                "paid": 945000.0
+            },
+            {
+                "player": 4607,
+                "contract": 1750000,
+                "paid": 291666.67
+            },
+            {
+                "player": 8836,
+                "contract": 7000000,
+                "paid": 4083333.33
+            },
+            {
+                "player": 7407,
+                "contract": 950000,
+                "paid": 348333.33
+            },
+            {
+                "player": 2733,
+                "contract": 9250000,
+                "paid": 5395833.33
+            }
+        ],
+        [
+            {
+                "player": 7382,
+                "contract": 7000000,
+                "paid": 2683333.33
+            },
+            {
+                "player": 6049,
+                "contract": 975000,
+                "paid": 373750.0
+            },
+            {
+                "player": 8587,
+                "contract": 2000000,
+                "paid": 166666.67
+            },
+            {
+                "player": 2733,
+                "contract": 9250000,
+                "paid": 3545833.33
+            },
+            {
+                "player": 4607,
+                "contract": 1750000,
+                "paid": 291666.67
+            },
+            {
+                "player": 8836,
+                "contract": 7000000,
+                "paid": 2683333.33
+            },
+            {
+                "player": 8587,
+                "contract": 3150000,
+                "paid": 945000.0
+            },
+            {
+                "player": 9339,
+                "contract": 1000000,
+                "paid": 233333.33
+            },
+            {
+                "player": 7407,
+                "contract": 950000,
+                "paid": 300833.33
+            }
+        ],
+        [
+            {
+                "player": 1506,
+                "contract": 3675000,
+                "paid": 796250.0
+            },
+            {
+                "player": 6049,
+                "contract": 975000,
+                "paid": 731250.0
+            },
+            {
+                "player": 2285,
+                "contract": 950000,
+                "paid": 205833.33
+            },
+            {
+                "player": 7382,
+                "contract": 7000000,
+                "paid": 5250000.0
+            },
+            {
+                "player": 8836,
+                "contract": 7000000,
+                "paid": 5250000.0
+            },
+            {
+                "player": 7407,
+                "contract": 950000,
+                "paid": 348333.33
+            },
+            {
+                "player": 8587,
+                "contract": 3150000,
+                "paid": 945000.0
+            },
+            {
+                "player": 9339,
+                "contract": 1000000,
+                "paid": 600000.0
+            },
+            {
+                "player": 2733,
+                "contract": 9250000,
+                "paid": 6937500.0
+            },
+            {
+                "player": 4607,
+                "contract": 1750000,
+                "paid": 291666.67
+            },
+            {
+                "player": 8587,
+                "contract": 2000000,
+                "paid": 900000.0
+            }
+        ],
+        [
+            {
+                "player": 8587,
+                "contract": 3150000,
+                "paid": 367500.0
+            },
+            {
+                "player": 7382,
+                "contract": 7000000,
+                "paid": 816666.67
+            },
+            {
+                "player": 6049,
+                "contract": 975000,
+                "paid": 113750.0
+            },
+            {
+                "player": 7407,
+                "contract": 950000,
+                "paid": 110833.33
+            },
+            {
+                "player": 8836,
+                "contract": 7000000,
+                "paid": 816666.67
+            },
+            {
+                "player": 4607,
+                "contract": 1750000,
+                "paid": 204166.67
+            },
+            {
+                "player": 9339,
+                "contract": 1000000,
+                "paid": 50000.0
+            },
+            {
+                "player": 2733,
+                "contract": 9250000,
+                "paid": 1079166.67
+            }
+        ],
+        [
+            {
+                "player": 8836,
+                "contract": 7000000,
+                "paid": 1750000.0
+            },
+            {
+                "player": 2733,
+                "contract": 9250000,
+                "paid": 2312500.0
+            },
+            {
+                "player": 7382,
+                "contract": 7000000,
+                "paid": 1750000.0
+            },
+            {
+                "player": 8587,
+                "contract": 3150000,
+                "paid": 787500.0
+            },
+            {
+                "player": 4607,
+                "contract": 1750000,
+                "paid": 291666.67
+            },
+            {
+                "player": 6049,
+                "contract": 975000,
+                "paid": 243750.0
+            },
+            {
+                "player": 7407,
+                "contract": 950000,
+                "paid": 174166.67
+            },
+            {
+                "player": 9339,
+                "contract": 1000000,
+                "paid": 183333.33
+            }
+        ],
+        [
+            {
+                "player": 7407,
+                "contract": 950000,
+                "paid": 348333.33
+            },
+            {
+                "player": 8587,
+                "contract": 3150000,
+                "paid": 945000.0
+            },
+            {
+                "player": 4607,
+                "contract": 1750000,
+                "paid": 291666.67
+            },
+            {
+                "player": 8836,
+                "contract": 7000000,
+                "paid": 3500000.0
+            },
+            {
+                "player": 6049,
+                "contract": 975000,
+                "paid": 487500.0
+            },
+            {
+                "player": 2733,
+                "contract": 9250000,
+                "paid": 4625000.0
+            },
+            {
+                "player": 9339,
+                "contract": 1000000,
+                "paid": 350000.0
+            },
+            {
+                "player": 7382,
+                "contract": 7000000,
+                "paid": 3500000.0
+            },
+            {
+                "player": 8587,
+                "contract": 2000000,
+                "paid": 400000.0
+            }
+        ],
+        [
+            {
+                "player": 8836,
+                "contract": 7000000,
+                "paid": 5366666.67
+            },
+            {
+                "player": 2285,
+                "contract": 950000,
+                "paid": 221666.67
+            },
+            {
+                "player": 2733,
+                "contract": 9250000,
+                "paid": 7091666.67
+            },
+            {
+                "player": 7382,
+                "contract": 7000000,
+                "paid": 5366666.67
+            },
+            {
+                "player": 1506,
+                "contract": 3675000,
+                "paid": 857500.0
+            },
+            {
+                "player": 4607,
+                "contract": 1750000,
+                "paid": 291666.67
+            },
+            {
+                "player": 8587,
+                "contract": 2000000,
+                "paid": 933333.33
+            },
+            {
+                "player": 8587,
+                "contract": 3150000,
+                "paid": 945000.0
+            },
+            {
+                "player": 7407,
+                "contract": 950000,
+                "paid": 348333.33
+            },
+            {
+                "player": 9339,
+                "contract": 1000000,
+                "paid": 616666.67
+            },
+            {
+                "player": 6049,
+                "contract": 975000,
+                "paid": 747500.0
+            }
+        ],
+        [
+            {
+                "player": 6049,
+                "contract": 975000,
+                "paid": 536250.0
+            },
+            {
+                "player": 7407,
+                "contract": 950000,
+                "paid": 348333.33
+            },
+            {
+                "player": 2285,
+                "contract": 950000,
+                "paid": 15833.33
+            },
+            {
+                "player": 8587,
+                "contract": 2000000,
+                "paid": 500000.0
+            },
+            {
+                "player": 1506,
+                "contract": 3675000,
+                "paid": 61250.0
+            },
+            {
+                "player": 8836,
+                "contract": 7000000,
+                "paid": 3850000.0
+            },
+            {
+                "player": 4607,
+                "contract": 1750000,
+                "paid": 291666.67
+            },
+            {
+                "player": 7382,
+                "contract": 7000000,
+                "paid": 3850000.0
+            },
+            {
+                "player": 8587,
+                "contract": 3150000,
+                "paid": 945000.0
+            },
+            {
+                "player": 2733,
+                "contract": 9250000,
+                "paid": 5087500.0
+            },
+            {
+                "player": 9339,
+                "contract": 1000000,
+                "paid": 400000.0
+            }
+        ],
+        [
+            {
+                "player": 4607,
+                "contract": 1750000,
+                "paid": 291666.67
+            },
+            {
+                "player": 2733,
+                "contract": 9250000,
+                "paid": 8941666.67
+            },
+            {
+                "player": 7382,
+                "contract": 7000000,
+                "paid": 6766666.67
+            },
+            {
+                "player": 8587,
+                "contract": 3150000,
+                "paid": 945000.0
+            },
+            {
+                "player": 8587,
+                "contract": 2000000,
+                "paid": 1333333.33
+            },
+            {
+                "player": 2285,
+                "contract": 950000,
+                "paid": 411666.67
+            },
+            {
+                "player": 1506,
+                "contract": 3675000,
+                "paid": 1592500.0
+            },
+            {
+                "player": 6049,
+                "contract": 975000,
+                "paid": 812500.0
+            },
+            {
+                "player": 7407,
+                "contract": 950000,
+                "paid": 475000.0
+            },
+            {
+                "player": 8836,
+                "contract": 7000000,
+                "paid": 6766666.67
+            },
+            {
+                "player": 9339,
+                "contract": 1000000,
+                "paid": 816666.67
+            }
+        ],
+        [
+            {
+                "player": 7382,
+                "contract": 7000000,
+                "paid": 1516666.67
+            },
+            {
+                "player": 6049,
+                "contract": 975000,
+                "paid": 211250.0
+            },
+            {
+                "player": 8836,
+                "contract": 7000000,
+                "paid": 1516666.67
+            },
+            {
+                "player": 9339,
+                "contract": 1000000,
+                "paid": 150000.0
+            },
+            {
+                "player": 8587,
+                "contract": 3150000,
+                "paid": 682500.0
+            },
+            {
+                "player": 7407,
+                "contract": 950000,
+                "paid": 142500.0
+            },
+            {
+                "player": 4607,
+                "contract": 1750000,
+                "paid": 291666.67
+            },
+            {
+                "player": 2733,
+                "contract": 9250000,
+                "paid": 2004166.67
+            }
+        ],
+        [
+            {
+                "player": 7382,
+                "contract": 7000000,
+                "paid": 350000.0
+            },
+            {
+                "player": 8836,
+                "contract": 7000000,
+                "paid": 350000.0
+            },
+            {
+                "player": 6049,
+                "contract": 975000,
+                "paid": 48750.0
+            },
+            {
+                "player": 7407,
+                "contract": 950000,
+                "paid": 47500.0
+            },
+            {
+                "player": 2733,
+                "contract": 9250000,
+                "paid": 462500.0
+            },
+            {
+                "player": 8587,
+                "contract": 3150000,
+                "paid": 157500.0
+            },
+            {
+                "player": 4607,
+                "contract": 1750000,
+                "paid": 87500.0
+            }
+        ],
+        [
+            {
+                "player": 2733,
+                "contract": 9250000,
+                "paid": 6629166.67
+            },
+            {
+                "player": 8587,
+                "contract": 3150000,
+                "paid": 945000.0
+            },
+            {
+                "player": 2285,
+                "contract": 950000,
+                "paid": 174166.67
+            },
+            {
+                "player": 8587,
+                "contract": 2000000,
+                "paid": 833333.33
+            },
+            {
+                "player": 4607,
+                "contract": 1750000,
+                "paid": 291666.67
+            },
+            {
+                "player": 6049,
+                "contract": 975000,
+                "paid": 698750.0
+            },
+            {
+                "player": 9339,
+                "contract": 1000000,
+                "paid": 566666.67
+            },
+            {
+                "player": 7382,
+                "contract": 7000000,
+                "paid": 5016666.67
+            },
+            {
+                "player": 8836,
+                "contract": 7000000,
+                "paid": 5016666.67
+            },
+            {
+                "player": 1506,
+                "contract": 3675000,
+                "paid": 673750.0
+            },
+            {
+                "player": 7407,
+                "contract": 950000,
+                "paid": 348333.33
+            }
+        ],
+        [
+            {
+                "player": 8587,
+                "contract": 3150000,
+                "paid": 525000.0
+            },
+            {
+                "player": 2733,
+                "contract": 9250000,
+                "paid": 1541666.67
+            },
+            {
+                "player": 4607,
+                "contract": 1750000,
+                "paid": 291666.67
+            },
+            {
+                "player": 8836,
+                "contract": 7000000,
+                "paid": 1166666.67
+            },
+            {
+                "player": 9339,
+                "contract": 1000000,
+                "paid": 100000.0
+            },
+            {
+                "player": 7407,
+                "contract": 950000,
+                "paid": 110833.33
+            },
+            {
+                "player": 6049,
+                "contract": 975000,
+                "paid": 162500.0
+            },
+            {
+                "player": 7382,
+                "contract": 7000000,
+                "paid": 1166666.67
+            }
+        ],
+        [
+            {
+                "player": 1506,
+                "contract": 3675000,
+                "paid": 612500.0
+            },
+            {
+                "player": 2285,
+                "contract": 950000,
+                "paid": 158333.33
+            },
+            {
+                "player": 8587,
+                "contract": 2000000,
+                "paid": 800000.0
+            },
+            {
+                "player": 8587,
+                "contract": 3150000,
+                "paid": 945000.0
+            },
+            {
+                "player": 2733,
+                "contract": 9250000,
+                "paid": 6475000.0
+            },
+            {
+                "player": 6049,
+                "contract": 975000,
+                "paid": 682500.0
+            },
+            {
+                "player": 7382,
+                "contract": 7000000,
+                "paid": 4900000.0
+            },
+            {
+                "player": 8836,
+                "contract": 7000000,
+                "paid": 4900000.0
+            },
+            {
+                "player": 9339,
+                "contract": 1000000,
+                "paid": 550000.0
+            },
+            {
+                "player": 7407,
+                "contract": 950000,
+                "paid": 348333.33
+            },
+            {
+                "player": 4607,
+                "contract": 1750000,
+                "paid": 291666.67
+            }
+        ],
+        [
+            {
+                "player": 8836,
+                "contract": 7000000,
+                "paid": 6533333.33
+            },
+            {
+                "player": 9339,
+                "contract": 1000000,
+                "paid": 783333.33
+            },
+            {
+                "player": 7407,
+                "contract": 950000,
+                "paid": 443333.33
+            },
+            {
+                "player": 7382,
+                "contract": 7000000,
+                "paid": 6533333.33
+            },
+            {
+                "player": 4607,
+                "contract": 1750000,
+                "paid": 291666.67
+            },
+            {
+                "player": 2733,
+                "contract": 9250000,
+                "paid": 8633333.33
+            },
+            {
+                "player": 8587,
+                "contract": 3150000,
+                "paid": 945000.0
+            },
+            {
+                "player": 8587,
+                "contract": 2000000,
+                "paid": 1266666.67
+            },
+            {
+                "player": 1506,
+                "contract": 3675000,
+                "paid": 1470000.0
+            },
+            {
+                "player": 2285,
+                "contract": 950000,
+                "paid": 380000.0
+            },
+            {
+                "player": 6049,
+                "contract": 975000,
+                "paid": 812500.0
+            }
+        ],
+        [
+            {
+                "player": 2733,
+                "contract": 9250000,
+                "paid": 8016666.67
+            },
+            {
+                "player": 2285,
+                "contract": 950000,
+                "paid": 316666.67
+            },
+            {
+                "player": 7407,
+                "contract": 950000,
+                "paid": 380000.0
+            },
+            {
+                "player": 9339,
+                "contract": 1000000,
+                "paid": 716666.67
+            },
+            {
+                "player": 7382,
+                "contract": 7000000,
+                "paid": 6066666.67
+            },
+            {
+                "player": 8587,
+                "contract": 2000000,
+                "paid": 1133333.33
+            },
+            {
+                "player": 4607,
+                "contract": 1750000,
+                "paid": 291666.67
+            },
+            {
+                "player": 6049,
+                "contract": 975000,
+                "paid": 812500.0
+            },
+            {
+                "player": 1506,
+                "contract": 3675000,
+                "paid": 1225000.0
+            },
+            {
+                "player": 8836,
+                "contract": 7000000,
+                "paid": 6066666.67
+            },
+            {
+                "player": 8587,
+                "contract": 3150000,
+                "paid": 945000.0
+            }
+        ],
+        [
+            {
+                "player": 7407,
+                "contract": 950000,
+                "paid": 348333.33
+            },
+            {
+                "player": 8836,
+                "contract": 7000000,
+                "paid": 4316666.67
+            },
+            {
+                "player": 2733,
+                "contract": 9250000,
+                "paid": 5704166.67
+            },
+            {
+                "player": 6049,
+                "contract": 975000,
+                "paid": 601250.0
+            },
+            {
+                "player": 8587,
+                "contract": 3150000,
+                "paid": 945000.0
+            },
+            {
+                "player": 8587,
+                "contract": 2000000,
+                "paid": 633333.33
+            },
+            {
+                "player": 7382,
+                "contract": 7000000,
+                "paid": 4316666.67
+            },
+            {
+                "player": 4607,
+                "contract": 1750000,
+                "paid": 291666.67
+            },
+            {
+                "player": 1506,
+                "contract": 3675000,
+                "paid": 306250.0
+            },
+            {
+                "player": 9339,
+                "contract": 1000000,
+                "paid": 466666.67
+            },
+            {
+                "player": 2285,
+                "contract": 950000,
+                "paid": 79166.67
+            }
+        ],
+        [
+            {
+                "player": 1506,
+                "contract": 3675000,
+                "paid": 1408750.0
+            },
+            {
+                "player": 7382,
+                "contract": 7000000,
+                "paid": 6416666.67
+            },
+            {
+                "player": 4607,
+                "contract": 1750000,
+                "paid": 291666.67
+            },
+            {
+                "player": 9339,
+                "contract": 1000000,
+                "paid": 766666.67
+            },
+            {
+                "player": 8587,
+                "contract": 3150000,
+                "paid": 945000.0
+            },
+            {
+                "player": 7407,
+                "contract": 950000,
+                "paid": 427500.0
+            },
+            {
+                "player": 2733,
+                "contract": 9250000,
+                "paid": 8479166.67
+            },
+            {
+                "player": 6049,
+                "contract": 975000,
+                "paid": 812500.0
+            },
+            {
+                "player": 2285,
+                "contract": 950000,
+                "paid": 364166.67
+            },
+            {
+                "player": 8836,
+                "contract": 7000000,
+                "paid": 6416666.67
+            },
+            {
+                "player": 8587,
+                "contract": 2000000,
+                "paid": 1233333.33
+            }
+        ],
+        [
+            {
+                "player": 7382,
+                "contract": 7000000,
+                "paid": 2216666.67
+            },
+            {
+                "player": 8587,
+                "contract": 3150000,
+                "paid": 945000.0
+            },
+            {
+                "player": 4607,
+                "contract": 1750000,
+                "paid": 291666.67
+            },
+            {
+                "player": 6049,
+                "contract": 975000,
+                "paid": 308750.0
+            },
+            {
+                "player": 8587,
+                "contract": 2000000,
+                "paid": 33333.33
+            },
+            {
+                "player": 9339,
+                "contract": 1000000,
+                "paid": 200000.0
+            },
+            {
+                "player": 7407,
+                "contract": 950000,
+                "paid": 237500.0
+            },
+            {
+                "player": 2733,
+                "contract": 9250000,
+                "paid": 2929166.67
+            },
+            {
+                "player": 8836,
+                "contract": 7000000,
+                "paid": 2216666.67
+            }
+        ],
+        [
+            {
+                "player": 8587,
+                "contract": 3150000,
+                "paid": 315000.0
+            },
+            {
+                "player": 2733,
+                "contract": 9250000,
+                "paid": 925000.0
+            },
+            {
+                "player": 6049,
+                "contract": 975000,
+                "paid": 97500.0
+            },
+            {
+                "player": 4607,
+                "contract": 1750000,
+                "paid": 175000.0
+            },
+            {
+                "player": 9339,
+                "contract": 1000000,
+                "paid": 33333.33
+            },
+            {
+                "player": 8836,
+                "contract": 7000000,
+                "paid": 700000.0
+            },
+            {
+                "player": 7407,
+                "contract": 950000,
+                "paid": 95000.0
+            },
+            {
+                "player": 7382,
+                "contract": 7000000,
+                "paid": 700000.0
+            }
+        ],
+        [
+            {
+                "player": 2733,
+                "contract": 9250000,
+                "paid": 2775000.0
+            },
+            {
+                "player": 8587,
+                "contract": 3150000,
+                "paid": 945000.0
+            },
+            {
+                "player": 4607,
+                "contract": 1750000,
+                "paid": 291666.67
+            },
+            {
+                "player": 7382,
+                "contract": 7000000,
+                "paid": 2100000.0
+            },
+            {
+                "player": 6049,
+                "contract": 975000,
+                "paid": 292500.0
+            },
+            {
+                "player": 7407,
+                "contract": 950000,
+                "paid": 221666.67
+            },
+            {
+                "player": 8836,
+                "contract": 7000000,
+                "paid": 2100000.0
+            },
+            {
+                "player": 9339,
+                "contract": 1000000,
+                "paid": 200000.0
+            }
+        ],
+        [
+            {
+                "player": 8587,
+                "contract": 2000000,
+                "paid": 666666.67
+            },
+            {
+                "player": 7407,
+                "contract": 950000,
+                "paid": 348333.33
+            },
+            {
+                "player": 2733,
+                "contract": 9250000,
+                "paid": 5858333.33
+            },
+            {
+                "player": 8587,
+                "contract": 3150000,
+                "paid": 945000.0
+            },
+            {
+                "player": 4607,
+                "contract": 1750000,
+                "paid": 291666.67
+            },
+            {
+                "player": 2285,
+                "contract": 950000,
+                "paid": 95000.0
+            },
+            {
+                "player": 6049,
+                "contract": 975000,
+                "paid": 617500.0
+            },
+            {
+                "player": 8836,
+                "contract": 7000000,
+                "paid": 4433333.33
+            },
+            {
+                "player": 7382,
+                "contract": 7000000,
+                "paid": 4433333.33
+            },
+            {
+                "player": 9339,
+                "contract": 1000000,
+                "paid": 483333.33
+            },
+            {
+                "player": 1506,
+                "contract": 3675000,
+                "paid": 367500.0
+            }
+        ],
+        [
+            {
+                "player": 8587,
+                "contract": 2000000,
+                "paid": 1033333.33
+            },
+            {
+                "player": 6049,
+                "contract": 975000,
+                "paid": 796250.0
+            },
+            {
+                "player": 2285,
+                "contract": 950000,
+                "paid": 269166.67
+            },
+            {
+                "player": 7407,
+                "contract": 950000,
+                "paid": 348333.33
+            },
+            {
+                "player": 8587,
+                "contract": 3150000,
+                "paid": 945000.0
+            },
+            {
+                "player": 2733,
+                "contract": 9250000,
+                "paid": 7554166.67
+            },
+            {
+                "player": 1506,
+                "contract": 3675000,
+                "paid": 1041250.0
+            },
+            {
+                "player": 4607,
+                "contract": 1750000,
+                "paid": 291666.67
+            },
+            {
+                "player": 8836,
+                "contract": 7000000,
+                "paid": 5716666.67
+            },
+            {
+                "player": 9339,
+                "contract": 1000000,
+                "paid": 666666.67
+            },
+            {
+                "player": 7382,
+                "contract": 7000000,
+                "paid": 5716666.67
+            }
+        ],
+        [
+            {
+                "player": 6049,
+                "contract": 975000,
+                "paid": 812500.0
+            },
+            {
+                "player": 1506,
+                "contract": 3675000,
+                "paid": 1163750.0
+            },
+            {
+                "player": 8587,
+                "contract": 3150000,
+                "paid": 945000.0
+            },
+            {
+                "player": 7382,
+                "contract": 7000000,
+                "paid": 5950000.0
+            },
+            {
+                "player": 8587,
+                "contract": 2000000,
+                "paid": 1100000.0
+            },
+            {
+                "player": 2733,
+                "contract": 9250000,
+                "paid": 7862500.0
+            },
+            {
+                "player": 7407,
+                "contract": 950000,
+                "paid": 364166.67
+            },
+            {
+                "player": 2285,
+                "contract": 950000,
+                "paid": 300833.33
+            },
+            {
+                "player": 9339,
+                "contract": 1000000,
+                "paid": 700000.0
+            },
+            {
+                "player": 4607,
+                "contract": 1750000,
+                "paid": 291666.67
+            },
+            {
+                "player": 8836,
+                "contract": 7000000,
+                "paid": 5950000.0
+            }
+        ],
+        [
+            {
+                "player": 7407,
+                "contract": 950000,
+                "paid": 348333.33
+            },
+            {
+                "player": 9339,
+                "contract": 1000000,
+                "paid": 283333.33
+            },
+            {
+                "player": 8587,
+                "contract": 3150000,
+                "paid": 945000.0
+            },
+            {
+                "player": 2733,
+                "contract": 9250000,
+                "paid": 4008333.33
+            },
+            {
+                "player": 6049,
+                "contract": 975000,
+                "paid": 422500.0
+            },
+            {
+                "player": 7382,
+                "contract": 7000000,
+                "paid": 3033333.33
+            },
+            {
+                "player": 4607,
+                "contract": 1750000,
+                "paid": 291666.67
+            },
+            {
+                "player": 8587,
+                "contract": 2000000,
+                "paid": 266666.67
+            },
+            {
+                "player": 8836,
+                "contract": 7000000,
+                "paid": 3033333.33
+            }
+        ],
+        [
+            {
+                "player": 2733,
+                "contract": 9250000,
+                "paid": 6320833.33
+            },
+            {
+                "player": 8836,
+                "contract": 7000000,
+                "paid": 4783333.33
+            },
+            {
+                "player": 9339,
+                "contract": 1000000,
+                "paid": 533333.33
+            },
+            {
+                "player": 7407,
+                "contract": 950000,
+                "paid": 348333.33
+            },
+            {
+                "player": 2285,
+                "contract": 950000,
+                "paid": 142500.0
+            },
+            {
+                "player": 8587,
+                "contract": 2000000,
+                "paid": 766666.67
+            },
+            {
+                "player": 8587,
+                "contract": 3150000,
+                "paid": 945000.0
+            },
+            {
+                "player": 4607,
+                "contract": 1750000,
+                "paid": 291666.67
+            },
+            {
+                "player": 7382,
+                "contract": 7000000,
+                "paid": 4783333.33
+            },
+            {
+                "player": 6049,
+                "contract": 975000,
+                "paid": 666250.0
+            },
+            {
+                "player": 1506,
+                "contract": 3675000,
+                "paid": 551250.0
+            }
+        ],
+        [
+            {
+                "player": 8836,
+                "contract": 7000000,
+                "paid": 466666.67
+            },
+            {
+                "player": 7407,
+                "contract": 950000,
+                "paid": 63333.33
+            },
+            {
+                "player": 2733,
+                "contract": 9250000,
+                "paid": 616666.67
+            },
+            {
+                "player": 7382,
+                "contract": 7000000,
+                "paid": 466666.67
+            },
+            {
+                "player": 6049,
+                "contract": 975000,
+                "paid": 65000.0
+            },
+            {
+                "player": 4607,
+                "contract": 1750000,
+                "paid": 116666.67
+            },
+            {
+                "player": 8587,
+                "contract": 3150000,
+                "paid": 210000.0
+            }
+        ],
+        [
+            {
+                "player": 7407,
+                "contract": 950000,
+                "paid": 285000.0
+            },
+            {
+                "player": 8836,
+                "contract": 7000000,
+                "paid": 2566666.67
+            },
+            {
+                "player": 9339,
+                "contract": 1000000,
+                "paid": 216666.67
+            },
+            {
+                "player": 2733,
+                "contract": 9250000,
+                "paid": 3391666.67
+            },
+            {
+                "player": 6049,
+                "contract": 975000,
+                "paid": 357500.0
+            },
+            {
+                "player": 8587,
+                "contract": 2000000,
+                "paid": 133333.33
+            },
+            {
+                "player": 4607,
+                "contract": 1750000,
+                "paid": 291666.67
+            },
+            {
+                "player": 8587,
+                "contract": 3150000,
+                "paid": 945000.0
+            },
+            {
+                "player": 7382,
+                "contract": 7000000,
+                "paid": 2566666.67
+            }
+        ],
+        [
+            {
+                "player": 7407,
+                "contract": 950000,
+                "paid": 110833.33
+            },
+            {
+                "player": 8587,
+                "contract": 3150000,
+                "paid": 420000.0
+            },
+            {
+                "player": 4607,
+                "contract": 1750000,
+                "paid": 233333.33
+            },
+            {
+                "player": 7382,
+                "contract": 7000000,
+                "paid": 933333.33
+            },
+            {
+                "player": 6049,
+                "contract": 975000,
+                "paid": 130000.0
+            },
+            {
+                "player": 9339,
+                "contract": 1000000,
+                "paid": 66666.67
+            },
+            {
+                "player": 2733,
+                "contract": 9250000,
+                "paid": 1233333.33
+            },
+            {
+                "player": 8836,
+                "contract": 7000000,
+                "paid": 933333.33
+            }
+        ],
+        [
+            {
+                "player": 4607,
+                "contract": 1750000,
+                "paid": 291666.67
+            },
+            {
+                "player": 2733,
+                "contract": 9250000,
+                "paid": 2158333.33
+            },
+            {
+                "player": 7407,
+                "contract": 950000,
+                "paid": 158333.33
+            },
+            {
+                "player": 7382,
+                "contract": 7000000,
+                "paid": 1633333.33
+            },
+            {
+                "player": 8836,
+                "contract": 7000000,
+                "paid": 1633333.33
+            },
+            {
+                "player": 6049,
+                "contract": 975000,
+                "paid": 227500.0
+            },
+            {
+                "player": 8587,
+                "contract": 3150000,
+                "paid": 735000.0
+            },
+            {
+                "player": 9339,
+                "contract": 1000000,
+                "paid": 166666.67
+            }
+        ],
+        [
+            {
+                "player": 7407,
+                "contract": 950000,
+                "paid": 316666.67
+            },
+            {
+                "player": 8587,
+                "contract": 3150000,
+                "paid": 945000.0
+            },
+            {
+                "player": 9339,
+                "contract": 1000000,
+                "paid": 250000.0
+            },
+            {
+                "player": 7382,
+                "contract": 7000000,
+                "paid": 2800000.0
+            },
+            {
+                "player": 8587,
+                "contract": 2000000,
+                "paid": 200000.0
+            },
+            {
+                "player": 4607,
+                "contract": 1750000,
+                "paid": 291666.67
+            },
+            {
+                "player": 8836,
+                "contract": 7000000,
+                "paid": 2800000.0
+            },
+            {
+                "player": 6049,
+                "contract": 975000,
+                "paid": 390000.0
+            },
+            {
+                "player": 2733,
+                "contract": 9250000,
+                "paid": 3700000.0
+            }
+        ],
+        [
+            {
+                "player": 7382,
+                "contract": 7000000,
+                "paid": 3616666.67
+            },
+            {
+                "player": 8587,
+                "contract": 3150000,
+                "paid": 945000.0
+            },
+            {
+                "player": 4607,
+                "contract": 1750000,
+                "paid": 291666.67
+            },
+            {
+                "player": 7407,
+                "contract": 950000,
+                "paid": 348333.33
+            },
+            {
+                "player": 6049,
+                "contract": 975000,
+                "paid": 503750.0
+            },
+            {
+                "player": 9339,
+                "contract": 1000000,
+                "paid": 366666.67
+            },
+            {
+                "player": 2733,
+                "contract": 9250000,
+                "paid": 4779166.67
+            },
+            {
+                "player": 8587,
+                "contract": 2000000,
+                "paid": 433333.33
+            },
+            {
+                "player": 8836,
+                "contract": 7000000,
+                "paid": 3616666.67
+            }
+        ],
+        [
+            {
+                "player": 7382,
+                "contract": 7000000,
+                "paid": 3383333.33
+            },
+            {
+                "player": 2733,
+                "contract": 9250000,
+                "paid": 4470833.33
+            },
+            {
+                "player": 8587,
+                "contract": 3150000,
+                "paid": 945000.0
+            },
+            {
+                "player": 4607,
+                "contract": 1750000,
+                "paid": 291666.67
+            },
+            {
+                "player": 9339,
+                "contract": 1000000,
+                "paid": 333333.33
+            },
+            {
+                "player": 8587,
+                "contract": 2000000,
+                "paid": 366666.67
+            },
+            {
+                "player": 7407,
+                "contract": 950000,
+                "paid": 348333.33
+            },
+            {
+                "player": 8836,
+                "contract": 7000000,
+                "paid": 3383333.33
+            },
+            {
+                "player": 6049,
+                "contract": 975000,
+                "paid": 471250.0
+            }
+        ],
+        [
+            {
+                "player": 8587,
+                "contract": 2000000,
+                "paid": 866666.67
+            },
+            {
+                "player": 8587,
+                "contract": 3150000,
+                "paid": 945000.0
+            },
+            {
+                "player": 2733,
+                "contract": 9250000,
+                "paid": 6783333.33
+            },
+            {
+                "player": 1506,
+                "contract": 3675000,
+                "paid": 735000.0
+            },
+            {
+                "player": 7382,
+                "contract": 7000000,
+                "paid": 5133333.33
+            },
+            {
+                "player": 4607,
+                "contract": 1750000,
+                "paid": 291666.67
+            },
+            {
+                "player": 7407,
+                "contract": 950000,
+                "paid": 348333.33
+            },
+            {
+                "player": 6049,
+                "contract": 975000,
+                "paid": 715000.0
+            },
+            {
+                "player": 8836,
+                "contract": 7000000,
+                "paid": 5133333.33
+            },
+            {
+                "player": 2285,
+                "contract": 950000,
+                "paid": 190000.0
+            },
+            {
+                "player": 9339,
+                "contract": 1000000,
+                "paid": 583333.33
+            }
+        ],
+        [
+            {
+                "player": 9339,
+                "contract": 1000000,
+                "paid": 200000.0
+            },
+            {
+                "player": 4607,
+                "contract": 1750000,
+                "paid": 291666.67
+            },
+            {
+                "player": 8587,
+                "contract": 3150000,
+                "paid": 892500.0
+            },
+            {
+                "player": 7407,
+                "contract": 950000,
+                "paid": 205833.33
+            },
+            {
+                "player": 8836,
+                "contract": 7000000,
+                "paid": 1983333.33
+            },
+            {
+                "player": 7382,
+                "contract": 7000000,
+                "paid": 1983333.33
+            },
+            {
+                "player": 2733,
+                "contract": 9250000,
+                "paid": 2620833.33
+            },
+            {
+                "player": 6049,
+                "contract": 975000,
+                "paid": 276250.0
+            }
+        ]
+    ]
+}
