@@ -8,72 +8,92 @@ def load_input(fname):
         data = json.load(infile)
     return data
 
-def process_snapshot_data(data):
-    # list to store intermediate data of player, contract and roster day
-    unsorted_data = []
+def get_most_common_player(data):
+    player_count = {}
 
-    # enumerate through all snapshots data
-    for idx, snapshots in enumerate(data["snapshots"]):
-        # for each snapshot per day
-        for snapshot in snapshots:
-            # add which day of the season we're on
-            snapshot["roster_day"] = idx
-            # add row data to our intermediary list
-            unsorted_data.append(snapshot)
-    return unsorted_data
+    for snapshot in data["snapshots"]:
+        for row in snapshot:
+            player_value = (row['player'], row['contract'])
+            player_count[player_value] = player_count.get(player_value, 0) + 1
 
-def sort_player_data(unsorted_data):
-    # using the built in sorted method, we sort the unsorted data and use the first
-    # column as what we're sorting by
-    sorted_data = sorted(unsorted_data, key=lambda row: row["player"])
-    return sorted_data
+    most_common_player = max(player_count, key=player_count.get)
 
-def write_to_csv(sorted_data, output_file, headers):
-    # open our output csv file
+    return most_common_player[0]
+
+def sort_by_paid(data, player_id):
+    only_max = []
+    for snapshot in data["snapshots"]:
+        print("\n") 
+        snapshot.sort(key=lambda player: (( player["paid"], player["player"] )))
+
+        for row in snapshot:
+            if (row["player"] == player_id):
+                only_max.append(row)
+
+    only_max.sort(key=lambda x: x["paid"] )
+
+    return only_max
+
+def map_roster_days(only_max, data, new_data):
+    for om in only_max:
+        for snapshot in data["snapshots"]:
+            if (om in snapshot):
+                new_data["snapshots"].append(snapshot)
+
+    return new_data
+
+def write_to_csv(output_file, data, headers):
     with open(output_file, mode="w", newline="") as outfile:
         csv_writer = csv.writer(outfile)
-        # first write the header rows declared on line 9
         csv_writer.writerow(headers)
 
-        # for each row in our newly sorted data
-        for row in sorted_data:
-            # we're grabbing only selected vals, we don't want the paid value in our file data
-            selected_values = [row[key] for key in headers] 
-            # write to csv
+        for snap in data:
+            selected_values = [snap[key] for key in headers] 
             csv_writer.writerow(selected_values)
+
+def add_roster_day_to_player(data):
+    for idx, snapshots in enumerate(data["snapshots"]):
+        snapshots.sort(key=lambda player:player["player"] )
+
+        for snapshot in snapshots:
+            snapshot["roster_day"] = idx
+
+def create_one_big_list(data):
+    only_snaps = []
+    for snapshots in data["snapshots"]:
+        for snapshot in snapshots:
+            only_snaps.append(snapshot)
+    
+
+    only_snaps.sort(key=lambda x:x["player"])
+
+    return only_snaps
 
 def main():
     # input and output file names
     input_file = "q1_snapshots.json"
     output_file = "q1_output.csv"
 
-    # hardcoded header rows for csv output file
+    data = load_input(input_file)
+
     headers = ["player", "contract", "roster_day"]
-   
-    # error handler for loading input file
-    try:
-        data = load_input(input_file)
-    except Exception as e:
-        print(f"Oops! An error occured while loading the input file. Error: {e}")
-        return
 
-    # error handler for processing player adta
-    try:
-        unsorted_data = process_snapshot_data(data)
-        sorted_data = sort_player_data(unsorted_data)
-    except Exception as e:
-        print(f"Oops! An error occured while processing player data. Error: {e}")
-        return
-    
-    # error handler for writing to output file
-    try:
-        write_to_csv(sorted_data, output_file, headers)
-    except Exception as e:
-        print(f"Oops! An error occured while writing data. Error: {e}")
-        return
+    player_id = get_most_common_player(data)
 
-    print("Complete! Please open " + output_file + " to view processed data.")
+    snapshot_of_max_player = sort_by_paid(data, player_id)
+
+    ordered_snapshots = {"snapshots": []}
+
+    new_data = map_roster_days(snapshot_of_max_player, data, ordered_snapshots)
+  
+    add_roster_day_to_player(new_data)
+
+    list_to_write = create_one_big_list(ordered_snapshots)
+
+    write_to_csv(output_file, list_to_write, headers)
+
 
 
 if __name__ == "__main__":
     main()
+
