@@ -23,7 +23,7 @@ def get_player_id_data(data):
 def sort_by_paid(data, player_id):
     only_max = []
     for snapshot in data["snapshots"]:
-        snapshot.sort(key=lambda player: (( player["paid"], player["player"] )))
+        snapshot.sort(key=lambda player: (( player["paid"], player["player"], player["contract"] )))
 
         for row in snapshot:
             if (row["player"] == player_id):
@@ -54,7 +54,6 @@ def write_to_csv(output_file, data, headers):
                 csv_writer.writerow(selected_values)
 
 def create_one_big_list(data):
-    # print(data)
     only_snaps = []
     for snapshots in data["snapshots"]:
         for snapshot in snapshots:
@@ -92,6 +91,7 @@ def get_players_by_id(all_player_ids, data):
             if (item['player'] == id):
                 new_list.append(item)
         players_by_id.append(new_list)
+        new_list.sort(key=lambda x:x["contract"])
     
     return players_by_id
 
@@ -119,14 +119,12 @@ def main():
     new_data = determine_snapshot_order(snapshot_of_max_player, data, ordered_snapshots)
     new_data_as_list = create_one_big_list(new_data)
     players_by_id = get_players_by_id(all_player_ids, new_data_as_list)
-
     ordered_snapshots_with_roster_day = {"snapshots": [] }
 
     to_write = get_all_players_and_roster_days(players_by_id, ordered_snapshots_with_roster_day)
 
     to_write_csv = create_one_big_list(to_write)
     write_to_csv(output_file, to_write_csv, headers)
-    
 
 if __name__ == "__main__":
     main()
